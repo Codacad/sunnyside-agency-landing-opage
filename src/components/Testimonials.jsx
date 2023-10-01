@@ -19,7 +19,7 @@ const Testimonials = () => {
               </span>
             </div>
           </div>
-          <div className="client mt-8 flex flex-col items-center text-center gap-8">
+          <div className="client max-sm:mt-8 flex flex-col items-center text-center gap-8">
             <div className="profile-pic w-16 h-16 rounded-full bg-thomas bg-cover bg-center"></div>
             <p className="px-8 text-[#23303e]">
               Sunnyside’s enthusiasm coupled with their keen interest in our
@@ -32,7 +32,7 @@ const Testimonials = () => {
               </span>
             </div>
           </div>
-          <div className="client mt-8 flex flex-col items-center text-center gap-8">
+          <div className="client max-sm:mt-8 flex flex-col items-center text-center gap-8">
             <div className="profile-pic w-16 h-16 rounded-full bg-jenny bg-cover bg-center"></div>
             <p className="px-8 text-[#23303e]">
               Incredible end result! Our sales increased over 400% when we
